@@ -1,86 +1,93 @@
-# Developer Portfolio Template 🚀
+# Prabin Rana Piyali — Personal Portfolio
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
 
-## What is this?
+Welcome to my personal portfolio repository!
 
-This simple portfolio template is designed to showcase your past projects, career history, skill sets, and more.
+I'm a **Digital Creative & Frontend Developer** interested in creating digital experiences that combine thoughtful design, usability, and frontend development.
 
-View the [Demo](https://yujisatojr.github.io/react-portfolio-template/).
+This portfolio showcases my skills, professional experience, selected projects, and ways to get in touch.
 
-**This template is free to use, and no attribution is required.** You can fork or download this repository to customize it for your own use. Please don't forget to leave a ⭐ if you like this portfolio!
+## About Me
 
-![screenshot](./src/assets//images/screenshot.png)
+I have a background in Information Technology and experience in UI/UX design, frontend development, and digital creative work.
 
-## Features
+I enjoy exploring ideas, designing user-friendly interfaces, and building digital products. I'm continuously learning and improving my skills through practical projects.
 
-✅ Open source (free to use, no attribution required)  
-✅ Responsive design & mobile-friendly  
-✅ Supports both dark and light modes  
-✅ Highly customizable multi-component layout  
-✅ Built with modern technologies (React, TypeScript, JavaScript, and SCSS)  
+## Skills & Expertise
 
-## Quick Setup
+- **UI/UX & Frontend Development:** UI design, UX design, wireframing, prototyping, HTML, CSS, React
+- **Graphic Design:** Canva, Adobe Photoshop, Affinity
+- **Video Editing:** CapCut and visual storytelling
+- **Project Management:** Task organisation, coordination, and workflow management
+- **Social Media Management:** Meta Business Suite, Buffer, content scheduling and publishing
 
-1. Ensure you have [Node.js](https://nodejs.org/) installed. Check your installation by running:
+## Featured Projects
 
-    ```bash
-    node -v
-    ```
+### Development
 
-2. In the project directory, install dependencies:
+- **[KeyGati](https://prabindangol618.github.io/keygati/)** — A browser-based typing speed test.
+- **[AahileHaina](https://github.com/prabindangol618/AahileHaina)** — A parody website built with React and TypeScript.
+- **DimeDice** — A browser-based dice roller with multiple dice, roll totals, history, and sound controls.
 
-    ```bash
-    npm install
-    ```
+### Graphic Design
 
-3. Start the development server:
+- Promotional posters and visual materials created for BabaJiKo Cafe.
 
-    ```bash
-    npm start
-    ```
+### Social Media Management
 
-4. Open [http://localhost:3000](http://localhost:3000) to view the app in the browser.
+- Social media management and content publishing for Excellent Education Consultancy.
 
-5. Customize the template by navigating to the `/src/components` directory. Modify texts, pictures, and other information as needed.
+## Technologies Used
 
-The page will reload if you make edits, and you will see any lint errors in the console.
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- SCSS
+- Material UI
+- EmailJS
 
-If you are interested in creating a mockup image like the ones from the personal projects section, I recommend [Genmoo](https://gemoo.com/tools/browser-mockup-generator/). This website lets you generate sleek looking browser mockups for free.
+## Run Locally
 
-## Deployment
+To run this project on your local machine:
 
-You can choose your preferred service (e.g., [Netlify](https://www.netlify.com/), [Render](https://render.com/), [Heroku](https://www.heroku.com/)) for deployment. One of the easiest ways to host this portfolio is using GitHub Pages. Follow the instructions below for a production deploy.
+**1. Clone the repository**
 
-1. **Set Up GitHub Repository**
+```bash
+git clone https://github.com/prabindangol618/prabin-portfolio.git
+```
 
-    Create a new repository on GitHub for your portfolio app.
+**2. Navigate to the project directory**
 
-2. **Configure `package.json`**
+```bash
+cd prabin-portfolio
+```
 
-    Edit the following properties in your `package.json` file:
+**3. Install dependencies**
 
-    ```json
-    {
-        "homepage": "https://yourusername.github.io/your-repo-name",
-        "scripts": {
-            "predeploy": "npm run build",
-            "deploy": "gh-pages -d build",
-            ...
-        }
-    }
-    ```
+```bash
+npm install
+```
 
-    Replace `yourusername` with your GitHub username and `your-repo-name` with the name of your GitHub repository.
+**4. Start the development server**
 
-3. **Deploy to GitHub Pages**
+```bash
+npm start
+```
 
-    Run the following command to deploy your app:
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-    ```bash
-    npm run deploy
-    ```
+## Contact
 
-4. **Access Your Deployed App**
+You can reach me through the contact form on my portfolio website.
 
-    After successfully deploying, you can access your app at `https://yourusername.github.io/your-repo-name`.
+- **GitHub:** [@prabindangol618](https://github.com/prabindangol618)
+- **Instagram:** [@sarlakkai](https://www.instagram.com/sarlakkai/)
+
+---
+
+© 2026 Prabin Rana Piyali. All rights reserved.
