@@ -1,3 +1,4 @@
+
 .contact_wrapper svg {
   font-size: 1em;
   vertical-align: middle;
@@ -14,12 +15,42 @@
   }
 
   button:hover {
-    background-color: #5000ca;
+    background-color: #1b4332;
     color: white;
   }
 
   fieldset {
     background-color: white;
+  }
+
+  .MuiInputBase-input {
+    color: #1b4332 !important;
+    background-color: white;
+  }
+
+  .MuiInputBase-input::placeholder {
+    color: #777777 !important;
+    opacity: 1;
+  }
+
+  .MuiInputLabel-root {
+    color: #555555;
+  }
+
+  .MuiInputLabel-root.Mui-focused {
+    color: #1b4332;
+  }
+
+  .MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline {
+    border-color: #aaaaaa;
+  }
+
+  .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: #1b4332;
+  }
+
+  .MuiFormHelperText-root {
+    color: #d32f2f;
   }
 }
 
@@ -45,4 +76,23 @@ form {
 .body-form {
   width: 100% !important;
   margin-bottom: 15px !important;
+}
+
+
+/* Force visible text inside all contact form fields */
+#contact .contact-form input,
+#contact .contact-form textarea,
+#contact .contact-form .MuiInputBase-input {
+  color: #1b4332 !important;
+  -webkit-text-fill-color: #1b4332 !important;
+  background-color: #ffffff !important;
+  caret-color: #1b4332 !important;
+}
+
+/* Keep placeholders visible */
+#contact .contact-form input::placeholder,
+#contact .contact-form textarea::placeholder {
+  color: #777777 !important;
+  -webkit-text-fill-color: #777777 !important;
+  opacity: 1 !important;
 }
