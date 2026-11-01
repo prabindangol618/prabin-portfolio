@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/prabin-portfolio/static/css/main.2cc70acb.css",
+    "main.js": "/prabin-portfolio/static/js/main.c48af265.js",
+    "static/js/453.c600fd21.chunk.js": "/prabin-portfolio/static/js/453.c600fd21.chunk.js",
+    "static/media/mock04.png": "/prabin-portfolio/static/media/mock04.f7b5679efade992a078c.png",
+    "static/media/bg-light.png": "/prabin-portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/mock05.png": "/prabin-portfolio/static/media/mock05.4faafa70d200d1519a34.png",
+    "static/media/bg-dark.png": "/prabin-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock01.png": "/prabin-portfolio/static/media/mock01.61bd486a54bf6e17ee5a.png",
+    "static/media/prabin.jpeg": "/prabin-portfolio/static/media/prabin.488cf5b015e2b497deb6.jpeg",
+    "static/media/mock02.png": "/prabin-portfolio/static/media/mock02.bced48ae9cdda3acf1a3.png",
+    "static/media/mock03.png": "/prabin-portfolio/static/media/mock03.a4600719e0b5d2a3155b.png",
+    "index.html": "/prabin-portfolio/index.html",
+    "main.2cc70acb.css.map": "/prabin-portfolio/static/css/main.2cc70acb.css.map",
+    "main.c48af265.js.map": "/prabin-portfolio/static/js/main.c48af265.js.map",
+    "453.c600fd21.chunk.js.map": "/prabin-portfolio/static/js/453.c600fd21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cc70acb.css",
+    "static/js/main.c48af265.js"
+  ]
+}
